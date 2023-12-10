@@ -1,0 +1,3 @@
+name:Salman
+surname:Akizhanov
+age:11
